@@ -1,6 +1,6 @@
-# D3V_M1ND5
+# NafasAI
 AI-POWERD mental health support application
-# D3V_M1ND5 (Dev Minds) is a mental state monitoring application enhanced with AI. It analyzes users' emotions and mental states and detects signs of depression. It provides personalized mental health advice to raise users' awareness, along with daily tasks considering the user's mood. 
+# NafasAI is a mental state monitoring application enhanced with AI. It analyzes users' emotions and mental states and detects signs of depression. It provides personalized mental health advice to raise users' awareness, along with daily tasks considering the user's mood. 
 
 ## Problem Statement
 Many people are not aware that they may be experiencing depression because they often think it is only temporary sadness. As a result, they may ignore the signs and feel confused, emotionally overwhelmed, or mentally distracted.
@@ -19,10 +19,9 @@ The application analyzes users’ moods and emotions through behavior and voice 
 - AI mood analysis  
 - Daily task recommendations  
 - Progress tracking  
-- Voice analysis  
+- lmage analyzes
 
 
-## AI Technologies Used
 ## Technologies & Tools
 
 ### Programming Language
