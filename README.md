@@ -93,5 +93,5 @@ This application does not provide diagnosis and is not a replacement for a psych
 
 ## Team Members
 - Norah ghalib alsubaie — AI Development & Programming  
-- Name 2 — UI/UX Design  
+- lujain walid— UI/UX Design  
 - Alzahra alessa — Testing & Documentation
