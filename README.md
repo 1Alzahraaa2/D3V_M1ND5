@@ -76,7 +76,7 @@ The interface supports Arabic right-to-left text rendering.
 The system uses Tkinter event loop (window.after) for smooth updates.
 
 ## Challenges
-- The AI may analyze emotions from text or voice, but user feelings are not always clearly expressed.  
+- The AI may analyze emotions from text or image, but user feelings are not always clearly expressed.  
 - The application may sometimes provide general or inappropriate guidance if the model is not well controlled.  
 - The system must be carefully designed to avoid causing stress or using harsh or negative language. 
 
