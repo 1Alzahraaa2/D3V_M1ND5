@@ -1,12 +1,12 @@
 # NafasAI
-AI-POWERD mental health support application
+AI-Powerd mental health support application
 # NafasAI is a mental state monitoring application enhanced with AI. It analyzes users' emotions and mental states and detects signs of depression. It provides personalized mental health advice to raise users' awareness, along with daily tasks considering the user's mood. 
 
 ## Problem Statement
 Many people are not aware that they may be experiencing depression because they often think it is only temporary sadness. As a result, they may ignore the signs and feel confused, emotionally overwhelmed, or mentally distracted.
 
 ## Our Solution
-The application analyzes users’ moods and emotions through behavior and voice recognition, then provides personalized guidance to help them take better actions for their mental health. It also suggests simple daily tasks based on the user’s emotional state and helps them improve their well-being.
+The application analyzes users’ moods and emotions through behavior and image analysis, then provides personalized guidance to help them take better actions for their mental health. It also suggests simple daily tasks based on the user’s emotional state and helps them improve their well-being.
 
 
 ## Project Goals
@@ -19,7 +19,7 @@ The application analyzes users’ moods and emotions through behavior and voice 
 - AI mood analysis  
 - Daily task recommendations  
 - Progress tracking  
-- lmage analyzes
+- lmage analysis 
 
 
 ## Technologies & Tools
